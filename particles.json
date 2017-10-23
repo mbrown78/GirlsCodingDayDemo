@@ -1,0 +1,26 @@
+{
+"particles":{
+  "number":{
+    "value": 100
+  },
+ "color":{
+   "value":"fff"
+ },
+ "line_linked": {
+       "enable": true,
+       "distance": 150,
+       "color": "#000",
+       "opacity": 0.4,
+       "width": 1
+   },
+
+  "shape":{
+    "type": "image",
+    "image":{
+    "src": "https://cdn4.iconfinder.com/data/icons/simple-outlines/512/Cube_Design_Box_Transparent_Creative-512.png"
+    }
+  }
+
+}
+
+}
