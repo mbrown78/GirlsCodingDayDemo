@@ -82,3 +82,21 @@ section.module.content {
   background-image: url('../img/desktop.jpg');
   min-height: 400px;
 }
+
+
+
+#foot {
+  width:100%;
+  padding:20px;
+  height: 200px;
+  padding-bottom:16px;
+  background:#666666;
+  color:white;
+  font-weight: 300;
+  font-size:18px;
+  text-align:center;
+  font-family: "Roboto Slab", serif;
+}
+#child {
+    line-height: 200px;
+}
