@@ -18,13 +18,10 @@ body,html {
   margin: 0 auto;
 }
 
-.section{
+.section {
   height: 400px;
 }
 
-section.module:last-child {
-  margin-bottom: 0;
-}
 section.module h2 {
   margin-top: 40px;
   margin-bottom: 40px;
@@ -36,9 +33,7 @@ section.module p {
   font-size: 16px;
   font-weight: 300;
 }
-section.module p:last-child {
-  margin-bottom: 0;
-}
+
 section.module.content {
   padding: 40px 0;
 }
@@ -82,24 +77,6 @@ section.module.content {
 .pimg4{
   background-image: url('../img/desktop.jpg');
   min-height: 400px;
-}
-
-
-
-#foot {
-  width:100%;
-  padding:20px;
-  height: 200px;
-  padding-bottom:16px;
-  background:#666666;
-  color:white;
-  font-weight: 300;
-  font-size:18px;
-  text-align:center;
-  font-family: "Roboto Slab", serif;
-}
-#child {
-    line-height: 200px;
 }
 
 .page-footer.indigo.center-on-small-only.pt-0{
